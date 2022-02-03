@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rugalek/training-shop/static/css/main.073c9b0a.css",
+    "main.js": "/rugalek/training-shop/static/js/main.bf39876c.js",
+    "static/js/787.47ca6e30.chunk.js": "/rugalek/training-shop/static/js/787.47ca6e30.chunk.js",
+    "static/media/logo.svg": "/rugalek/training-shop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/rugalek/training-shop/index.html",
+    "main.073c9b0a.css.map": "/rugalek/training-shop/static/css/main.073c9b0a.css.map",
+    "main.bf39876c.js.map": "/rugalek/training-shop/static/js/main.bf39876c.js.map",
+    "787.47ca6e30.chunk.js.map": "/rugalek/training-shop/static/js/787.47ca6e30.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bf39876c.js"
+  ]
+}
